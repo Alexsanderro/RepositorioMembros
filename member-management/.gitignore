@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Maven
+target/
+
+# Sistema
+.DS_Store
